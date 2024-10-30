@@ -1,5 +1,5 @@
 ##  <h1>Olá Sou Kayky Nascimento!! Seja Bem Vindo ao Meu Repositorio!!!</h1>
-
+![Desenvolvimento de Back-end](https://img.shields.io/badge/-Desenvolvimento%20de%20Back--end-0052CC?style=for-the-badge&logo=backend&logoColor=white)
 
 
 <div  align="center" style="margin-bottom:100px">
@@ -21,15 +21,17 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
+### 🗄️ Ferramentas e Frameworks
+
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core]([https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white))
+
 ### ☁️ Cloud & Infraestrutura
 
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🗄️ Desenvolvimento de Back-end
 
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Desenvolvimento de Back-end](https://img.shields.io/badge/-Desenvolvimento%20de%20Back--end-0052CC?style=for-the-badge&logo=backend&logoColor=white)
 
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
