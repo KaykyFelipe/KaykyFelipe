@@ -1,5 +1,5 @@
 ##  <h1>Olá Sou Kayky Nascimento!! Seja Bem Vindo ao Meu Repositorio!!!</h1>
-![Desenvolvimento de Back-end](https://img.shields.io/badge/-Desenvolvimento%20de%20Back--end-0052CC?style=for-the-badge&logo=backend&logoColor=white)
+
 
 
 <div  align="center" style="margin-bottom:100px">
