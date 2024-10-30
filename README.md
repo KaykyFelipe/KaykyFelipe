@@ -1,6 +1,11 @@
 ##  <h1>Seja Bem Vindo ao Meu Repositorio!!!</h1>
 
+
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyFelipe&langs_count=8)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/KaykyFelipe/github-readme-stats)
+
+</div>
 
 
 <div style="display: inline_block"><br>
