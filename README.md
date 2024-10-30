@@ -3,7 +3,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyFelipe&langs_count=8)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/KaykyFelipe/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaykyFelipe)](https://github.com/KaykyFelipe/github-readme-stats)
 
 
 
