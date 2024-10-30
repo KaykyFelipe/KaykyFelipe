@@ -1,6 +1,6 @@
 ##  <h1>Seja Bem Vindo ao Meu Repositorio!!!</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyFelipe&layout=donut)](https://github.com/KaykyFelipe/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyFelipe&langs_count=8)
 
 
 <div style="display: inline_block"><br>
